@@ -1,3 +1,6 @@
+//Student Name: Ivy Osei
+//This lab was done individually
+
 package com.example.caps;
 
 import androidx.appcompat.app.AppCompatActivity;
