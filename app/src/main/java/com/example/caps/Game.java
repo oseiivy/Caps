@@ -1,13 +1,13 @@
-package e.o.caps;
+package com.example.caps;
 
 import java.util.List;
 import java.util.Map;
-import java.util.Random;
 
 import ca.roumani.i2c.Country;
 import ca.roumani.i2c.CountryDB;
 
-public class Game {
+public class Game
+{
     CountryDB db;
 
 

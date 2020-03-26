@@ -47,8 +47,9 @@
 
     <Button
         android:id="@+id/done"
-        android:layout_height="wrap_content"
         android:layout_width="123dp"
+        android:layout_height="wrap_content"
+        android:onClick="onDone"
         android:text="DONE"
         app:layout_constraintStart_toEndOf="@+id/answer"
         app:layout_constraintTop_toBottomOf="@+id/question" />

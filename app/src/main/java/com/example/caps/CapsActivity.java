@@ -1,8 +1,9 @@
-package e.o.caps;
+package com.example.caps;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import android.media.AudioManager;
 import android.media.ToneGenerator;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
@@ -72,8 +73,5 @@ public class CapsActivity extends AppCompatActivity {
         ((TextView)findViewById(R.id.answer)).setText("");
 
     }
-
-
-
 
 }
