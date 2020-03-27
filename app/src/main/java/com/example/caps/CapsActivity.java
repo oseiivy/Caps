@@ -1,6 +1,6 @@
 //Student Name: Ivy Osei
 //This lab was done individually
-
+//Video URL:
 package com.example.caps;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -66,7 +66,7 @@ public class CapsActivity extends AppCompatActivity {
         qNum++;
         ((TextView)findViewById(R.id.qNum)).setText( "Q# " + qNum);
 
-        if (qNum == 10){
+        if (qNum == 11){
             ((TextView)findViewById(R.id.qNum)).setText( "Game Over");
             findViewById(R.id.done).setEnabled(false);
         }
