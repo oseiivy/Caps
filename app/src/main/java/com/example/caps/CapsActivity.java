@@ -1,6 +1,6 @@
 //Student Name: Ivy Osei
 //This lab was done individually
-//Video URL:
+//Video URL: https://www.youtube.com/watch?v=1k1Zah4xwjM
 package com.example.caps;
 
 import androidx.appcompat.app.AppCompatActivity;
